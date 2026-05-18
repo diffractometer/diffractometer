@@ -8,12 +8,6 @@ Chicago based engineer building systems for real world human connection.
 
 &nbsp;
 
-**ex-Grindr**
-
-helped scale engineering from &lt;10 to 100+ engineers &middot; rebuilt ~70 microservices &middot; shipped private and video albums &middot; infrastructure handling billions of images and millions of album shares/day &middot; part of the IPO era
-
-&nbsp;
-
 **Built products and systems across**
 
 social &middot; dating &middot; healthcare &middot; ecommerce &middot; venture capital &middot; cannabis tech
