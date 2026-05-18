@@ -1,6 +1,6 @@
-# λ Hunter Husar
+# Hunter Husar
 
-*everything is a function*
+*everything is a λ function*
 
 VP of Engineering at [Pie](https://www.getpie.app) &middot; Chicago
 
@@ -8,7 +8,7 @@ Chicago based engineer building systems for real world human connection.
 
 &nbsp;
 
-**Previously at Grindr**
+**ex-Grindr**
 
 helped scale engineering from &lt;10 to 100+ engineers &middot; rebuilt ~70 microservices &middot; shipped private and video albums &middot; infrastructure handling billions of images and millions of album shares/day &middot; part of the IPO era
 
