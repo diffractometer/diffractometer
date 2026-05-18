@@ -2,7 +2,7 @@
 
 *everything is a λ function*
 
-VP of Engineering at [Pie](https://www.getpie.app) &middot; Chicago
+Head of Engineering at [Pie](https://www.getpie.app) &middot; Chicago
 
 Chicago based engineer building systems for real world human connection.
 
