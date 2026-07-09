@@ -1,6 +1,6 @@
 # Hunter Husar
 
-* λ lover*
+*λ calculus person*
 
 Co-founder @ [pie](https://www.getpie.app) &middot; Chicago
 
