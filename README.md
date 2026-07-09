@@ -1,8 +1,8 @@
-# Hunter Husar
+# hunter husar
 
 *λ calculus person*
 
-co-founder & CTO @ [pie](https://www.getpie.app) &middot; 
+co-founder & CTO @ [pie](https://www.getpie.app) 
 
 **chicago based computer person building systems for human connection.**
 
@@ -10,8 +10,8 @@ social &middot; dating &middot; healthcare &middot; ecommerce &middot; venture c
 
 **current interests include**
 
-Kotlin / Ktor &middot; distributed systems &middot; realtime infrastructure &middot; AI loop systems &middot; agent memory &middot; vector based matching systems &middot; backend architecture &middot; low latency systems
+kotlin / ktor &middot; distributed systems &middot; realtime infrastructure &middot; AI loop systems &middot; agent memory &middot; vector based matching systems &middot; backend architecture &middot; low latency systems
 
 **side projects**
 
-WingDingos &middot; Unblur &middot; synthesizers &middot; cyberdeck builds &middot; 3D printing &middot; weird hardware &middot; Ford Transit Connects
+wingdingos &middot; unblur &middot; synthesizers &middot; cyberdeck builds &middot; 3D printing &middot; weird hardware &middot; ford transit connects
