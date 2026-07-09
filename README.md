@@ -1,19 +1,19 @@
 # Hunter Husar
 
-*everything is a λ function*
+* λ lover*
 
-Head of Engineering at [Pie](https://www.getpie.app) &middot; Chicago
+Co-founder @ [pie](https://www.getpie.app) &middot; Chicago
 
-Chicago based engineer building systems for real world human connection.
+chicago based computer person building systems for real world human connection.
 
-**Built products and systems across**
+**built products and systems across a wide range of cool industries**
 
 social &middot; dating &middot; healthcare &middot; ecommerce &middot; venture capital &middot; cannabis tech
 
-**Current interests**
+**my current interests include**
 
 Kotlin / Ktor &middot; distributed systems &middot; realtime infrastructure &middot; AI orchestration systems &middot; agent memory &middot; vector based matching systems &middot; observability &middot; backend architecture &middot; low latency systems
 
-**Side projects**
+**several fun side projects when i have extra time to play around on computers**
 
 WingDingos &middot; Unblur &middot; synthesizers &middot; cyberdeck builds &middot; 3D printing &middot; weird hardware &middot; Ford Transit Connects
