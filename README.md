@@ -2,7 +2,7 @@
 
 *λ calculus person*
 
-Co-founder @ [pie](https://www.getpie.app) &middot; Chicago
+co-founder & CTO @ [pie](https://www.getpie.app) &middot; Chicago
 
 chicago based computer person building systems for real world human connection.
 
